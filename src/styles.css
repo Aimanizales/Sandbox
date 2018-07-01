@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 16px;
+}
+
+h1 {
+  color: darkolivegreen;
+}
+
+h2 {
+  color: cadetblue;
+  margin-top: 36px;
+  margin-bottom: 0;
+}
+
+#root {
+  border: thin solid blueviolet;
+  text-align: center;
+}
+
+#form {
+  border: thin solid yellowgreen;
+}
